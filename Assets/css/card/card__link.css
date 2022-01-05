@@ -1,0 +1,17 @@
+.card__link{
+    background-color: var(--cinza-claro);
+    border: solid black;
+    text-decoration: none;
+}
+.card__link:hover{
+    text-decoration: underline;
+}
+@media screen and (min-width: 768px){
+    .card__link{
+        margin-right: 1rem;
+        margin: .50rem;
+    }
+    .card__link:hover{
+        border-color: brown;
+    }
+}

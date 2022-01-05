@@ -1,0 +1,10 @@
+.viloes__paragrafo{
+    font-size: 1.50rem;
+    font-family: var(--sriracha);
+    margin-bottom: 1rem;
+}
+@media screen and (min-width: 768px){
+    .viloes__paragrafo{
+        padding: 0 2rem;
+    }
+}

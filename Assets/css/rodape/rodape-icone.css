@@ -1,0 +1,13 @@
+.rodape__icone{
+    color: var(--cinza-claro);
+    font-size: 2rem;
+    text-decoration: none;
+    word-spacing: 1rem;
+}
+.facebook:hover, 
+.twitter:hover{
+    color: blue;
+}
+.youtube:hover{
+    color: red;
+}
